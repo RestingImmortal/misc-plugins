@@ -1,0 +1,6 @@
+system Rutilicus
+	haze "ship/WWS"
+
+system Sol
+	haze "ship/WWS"
+
