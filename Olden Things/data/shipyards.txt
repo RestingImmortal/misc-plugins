@@ -24,6 +24,9 @@ shipyard plugin
 	"Star Barge (Original)"
 	Destroyer
 
+planet "Ciu Kreo"
+	add shipyard "Olden Things"
+
 planet "Plugin Kreo"
 	add shipyard "Olden Things"
 

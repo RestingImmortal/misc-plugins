@@ -76,6 +76,9 @@ outfitter plugin
 	"Torpedo Launcher (Original)"
 	"Water Coolant System (Original)"
 
+planet "Ciu Kreo"
+	add outfitter "Olden Stuff"
+
 planet "Plugin Kreo"
 	add outfitter "Olden Stuff"
 
