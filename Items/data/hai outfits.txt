@@ -1,0 +1,25 @@
+outfit "Hai Afterburner"
+	category "Engines"
+	thumbnail "outfit/hai_afterburner"
+	"mass" 13
+	"outfit space" -13
+	"engine capacity" -13
+	"afterburner thrust" 21.0
+	"afterburner fuel" .35
+	"afterburner heat" 7.6
+	"afterburner effect" "afterburner"
+
+
+
+outfitter "Items"
+	"Hai Afterburner"
+
+outfitter plugin
+	"Hai Afterburner"
+
+planet "Ciu Kreo"
+	add outfitter Items
+
+planet "Plugin Kreo"
+	add outfitter Items
+
