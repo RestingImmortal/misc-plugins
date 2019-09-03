@@ -2,7 +2,7 @@
 Various small, not very serious plugins not large enough to warrant its own repo.
 
 ### Items
-Misc within the misc. More or less a place to flesh out various things before they are added elsewhere. The things can be accessed with [Ciu Kreo](https://github.com/RestingImmortal/Ciu-Kreo) or [Omnis](https://github.com/Darcman99/Omnis).
+Misc within the misc. More or less a place to flesh out various things before they are added elsewhere. The things can be accessed with [Ciu Kreo](https://github.com/RestingImmortal/Ciu-Kreo) or Omnis, found within [Adde](https://github.com/Darcman99/Adde-Endless-Sky).
 
 
 ### Olden Things
